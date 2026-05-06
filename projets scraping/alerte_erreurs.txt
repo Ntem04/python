@@ -1,0 +1,10 @@
+RAPPORT DES ERREURS DETECTEES
+==============================
+
+ALERTE : IP 10.0.0.5 -> Erreur 403 sur /admin
+ALERTE : IP 172.16.0.3 -> Erreur 404 sur /config.php
+ALERTE : IP 10.0.0.5 -> Erreur 500 sur /api/data
+ALERTE : IP 192.168.1.15 -> Erreur 404 sur /contact
+ALERTE : IP 172.16.0.3 -> Erreur 404 sur /test-script
+
+Total des erreurs trouv�es : 5
